@@ -1,0 +1,8 @@
+event_id,event_name,category,organizer_id,base_ticket_price,total_tickets,sold_tickets,ticket_tier,ticket_status
+1001,Rock Revival Tour,Music,1,120.00,500,480,VIP,SoldOut
+1002,Tech Innovate 2024,Conference,3,300.00,200,150,Standard,Limited
+1003,City Classic Play,Theater,2,85.00,350,340,Economy,Available
+1004,Python Bootcamp,Workshop,3,150.00,100,85,Standard,Available
+1005,Championship Finals,Sports,1,200.00,600,600,VIP,SoldOut
+1006,Creative Coding Summit,Conference,3,250.00,250,200,Standard,Limited
+1007,Indie Vibes Fest,Music,2,95.00,400,390,Standard,Available

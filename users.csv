@@ -1,0 +1,9 @@
+user_id,username,email,password,user_type,account_balance
+1,JordanEvents,jordan@proevents.com,organizer123,Organizer,8200.50
+2,MelanieShows,melanie@starlight.com,melshine88,Organizer,5450.00
+3,ChrisTech,chris@codehub.org,techwizard,Organizer,3220.75
+4,AmyWalker,amyw@gmail.com,passAmy123,Attendee,450.25
+5,NoahMills,noah.mills@gmail.com,noahpass,Attendee,720.00
+6,SophiaPerez,sophia_perez@gmail.com,sophia789,Attendee,995.75
+7,LiamStone,liamstone@yahoo.com,rockfan,Attendee,1120.50
+8,EllaRay,ella.ray@gmail.com,ellaevent,Attendee,680.00
